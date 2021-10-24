@@ -2,7 +2,8 @@
 Create beautiful & interactive parallax backgrounds for your apps and games.
 
 [![pub package](https://img.shields.io/badge/pub-v1.0.4-blue)](https://pub.dev/packages/parallax_bg)  
-![screenshot of sample](https://github.com/Zifirut/u_char/blob/master/Screenshot_1.png)
+![screenshot of sample](https://github.com/Zifirut/parallax_bg/blob/main/video_2021-10-24_22-21-17.mp4)
+https://github.com/Zifirut/parallax_bg/blob/main/video_2021-10-24_22-21-17.mp4
 
 
 ## Usage
