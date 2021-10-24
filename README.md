@@ -1,5 +1,6 @@
 
-#################                        Source CODE :                 ###################
+####  Source CODE :   
+
 https://github.com/kumar-aakash86/parallax_bg/tree/5490bdcde19741d3990c63f8fdbf63fbf2b65ea0
 
 
