@@ -1,9 +1,14 @@
+
+#################                        Source CODE :                 ###################
+https://github.com/kumar-aakash86/parallax_bg/tree/5490bdcde19741d3990c63f8fdbf63fbf2b65ea0
+
+
 # parallax_bg
 Create beautiful & interactive parallax backgrounds for your apps and games.
 
 [![pub package](https://img.shields.io/badge/pub-v1.0.4-blue)](https://pub.dev/packages/parallax_bg)  
-![screenshot of sample](https://github.com/Zifirut/parallax_bg/blob/main/video_2021-10-24_22-21-17.mp4)
-https://github.com/Zifirut/parallax_bg/blob/main/video_2021-10-24_22-21-17.mp4
+![screenshot of sample](https://github.com/Zifirut/parallax_bg/blob/main/sample.gif)
+
 
 
 ## Usage
