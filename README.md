@@ -5,7 +5,7 @@ Create beautiful & interactive parallax backgrounds for your apps and games.
 
 ![Example Image](https://github.com/kumar-aakash86/parallax_bg/blob/master/screenshots/sample.gif)
 
-You can find another working example in [SlideIT Mobile Game](https://play.google.com/store/apps/details?id=ak.fltr.slide_puzzle)
+
 
 ## Usage
 Add following command in your **pubspec.yaml** & install package
