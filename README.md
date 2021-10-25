@@ -4,13 +4,15 @@
 https://github.com/kumar-aakash86/parallax_bg/tree/5490bdcde19741d3990c63f8fdbf63fbf2b65ea0
 
 
-# parallax_bg
-Create beautiful & interactive parallax backgrounds for your apps and games.
+# id_parallax
 
-[![pub package](https://img.shields.io/badge/pub-v1.0.4-blue)](https://pub.dev/packages/parallax_bg)  
+# This project was createt as homework for the Flutter course !
+# Exercise: create creative own id card.
+
 ![screenshot of sample](https://github.com/Zifirut/parallax_bg/blob/main/sample.gif)
 
-
+Create beautiful & interactive parallax backgrounds for your apps and games.
+[![pub package](https://img.shields.io/badge/pub-v1.0.4-blue)](https://pub.dev/packages/parallax_bg)
 
 ## Usage
 Add following command in your **pubspec.yaml** & install package
