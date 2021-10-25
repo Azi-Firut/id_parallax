@@ -1,9 +1,3 @@
-
-####  Source CODE :   
-
-https://github.com/kumar-aakash86/parallax_bg/tree/5490bdcde19741d3990c63f8fdbf63fbf2b65ea0
-
-
 # id_parallax
 
 # This project was createt as homework for the Flutter course !
@@ -11,6 +5,10 @@ https://github.com/kumar-aakash86/parallax_bg/tree/5490bdcde19741d3990c63f8fdbf6
 
 ![screenshot of sample](https://github.com/Zifirut/parallax_bg/blob/main/sample.gif)
 
+
+####  Source CODE :   
+
+https://github.com/kumar-aakash86/parallax_bg/tree/5490bdcde19741d3990c63f8fdbf63fbf2b65ea0
 Create beautiful & interactive parallax backgrounds for your apps and games.
 [![pub package](https://img.shields.io/badge/pub-v1.0.4-blue)](https://pub.dev/packages/parallax_bg)
 
