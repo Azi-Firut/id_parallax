@@ -1,7 +1,5 @@
-## id_parallax
+## id_parallax  creative own id card.
 
-### This project was createt as homework for the Flutter course !
-### Exercise: create creative own id card.
 
 ![screenshot of sample](https://github.com/Zifirut/parallax_bg/blob/main/sample.gif)
 
